@@ -17,6 +17,11 @@
       "required": true,
       "maxLength": 255
     },
+    "SEOMetaDescription": {
+      "type": "string",
+      "required": true,
+      "maxLength": 255
+    },
     "content": {
       "type": "richtext"
     }
